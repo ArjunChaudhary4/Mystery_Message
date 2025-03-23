@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Mystery_Message
-Mystery Message is an online platform to communicate without sharing their identity
+Mystery Message is a web app where anyone can anonymously send a message to a verified user of the platform
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
